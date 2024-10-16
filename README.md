@@ -30,7 +30,7 @@ If you're a developer looking to create your own portfolio, feel free to use thi
 First, you'll want to clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-website
+git clone https://github.com/NehaSJ99/portfolio-website
 ```
 
 ### Step 2: Customize
@@ -59,7 +59,7 @@ This portfolio template was originally built by **Neha** and is available for yo
 Here's a sample credit you can add to your footer:
 
 ```html
-<p>Template by <a href="https://github.com/yourusername">Neha</a></p>
+<p>Template by <a href="https://github.com/NehaSJ99">Neha Jagtap</a></p>
 ```
 
 ### License
